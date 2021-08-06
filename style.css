@@ -1,0 +1,97 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+  width: 1500px;
+  margin: auto;
+  box-sizing: content-box;
+
+
+}
+
+
+.contenitore{
+  width: 1000px;
+  height: 700px;
+  background: rgba(0, 0, 0, 0.5);
+  margin: auto;
+  border-radius: 10px;
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+
+
+
+#logo{
+  width:200px;
+  margin: auto;
+  padding-top: 20px;
+
+}
+
+
+
+.titolo{
+  color: #00ff00;
+  margin:auto;
+}
+
+.pulsanti{
+  width: 800px;
+  height: 30px;
+  background-color: #00ff00;
+  margin: auto;
+  padding-top: 10px;
+  box-sizing: content-box;
+  border-radius: 5px;
+}
+
+
+.monopattini{
+  color: white;
+  text-align: left;
+  margin:0;
+  margin-left: 80px;
+  padding: 15px;
+  padding-top: 0;
+}
+
+
+div span{
+  font-style: oblique;
+}
+
+
+ main h3{
+  display: inline-block;
+}
+
+#myProgress {
+  width: 30%;
+  height: 30px;
+  background-color: orange;
+  border-radius: 5px;
+  margin: auto;
+  margin-left: 0;
+
+}
+
+#secondbars{
+  width: 60%;
+  height: 30px;
+  background-color: green;
+  border-radius: 5px;
+  margin: auto;
+  margin-left: 0;
+
+}
+
+#thirdbars{
+  width: 20%;
+  height: 30px;
+  background-color: darkred;
+  border-radius: 5px;
+  margin: auto;
+  margin-left: 0;
+}
